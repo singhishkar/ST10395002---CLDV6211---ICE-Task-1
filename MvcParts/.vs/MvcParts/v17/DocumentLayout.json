@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ishka\\source\\repos\\MvcParts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0621A09E-44C7-42B7-8FB1-A8F19B478622}|MvcParts\\MvcParts.csproj|c:\\users\\ishka\\source\\repos\\mvcparts\\mvcparts\\models\\parts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0621A09E-44C7-42B7-8FB1-A8F19B478622}|MvcParts\\MvcParts.csproj|solutionrelative:mvcparts\\models\\parts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0621A09E-44C7-42B7-8FB1-A8F19B478622}|MvcParts\\MvcParts.csproj|c:\\users\\ishka\\source\\repos\\mvcparts\\mvcparts\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0621A09E-44C7-42B7-8FB1-A8F19B478622}|MvcParts\\MvcParts.csproj|solutionrelative:mvcparts\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0621A09E-44C7-42B7-8FB1-A8F19B478622}|MvcParts\\MvcParts.csproj|c:\\users\\ishka\\source\\repos\\mvcparts\\mvcparts\\views\\parts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0621A09E-44C7-42B7-8FB1-A8F19B478622}|MvcParts\\MvcParts.csproj|solutionrelative:mvcparts\\views\\parts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0621A09E-44C7-42B7-8FB1-A8F19B478622}|MvcParts\\MvcParts.csproj|c:\\users\\ishka\\source\\repos\\mvcparts\\mvcparts\\views\\parts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0621A09E-44C7-42B7-8FB1-A8F19B478622}|MvcParts\\MvcParts.csproj|solutionrelative:mvcparts\\views\\parts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0621A09E-44C7-42B7-8FB1-A8F19B478622}|MvcParts\\MvcParts.csproj|c:\\users\\ishka\\source\\repos\\mvcparts\\mvcparts\\views\\parts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0621A09E-44C7-42B7-8FB1-A8F19B478622}|MvcParts\\MvcParts.csproj|solutionrelative:mvcparts\\views\\parts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0621A09E-44C7-42B7-8FB1-A8F19B478622}|MvcParts\\MvcParts.csproj|c:\\users\\ishka\\source\\repos\\mvcparts\\mvcparts\\views\\parts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0621A09E-44C7-42B7-8FB1-A8F19B478622}|MvcParts\\MvcParts.csproj|solutionrelative:mvcparts\\views\\parts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0621A09E-44C7-42B7-8FB1-A8F19B478622}|MvcParts\\MvcParts.csproj|c:\\users\\ishka\\source\\repos\\mvcparts\\mvcparts\\controllers\\partscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0621A09E-44C7-42B7-8FB1-A8F19B478622}|MvcParts\\MvcParts.csproj|solutionrelative:mvcparts\\controllers\\partscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0621A09E-44C7-42B7-8FB1-A8F19B478622}|MvcParts\\MvcParts.csproj|c:\\users\\ishka\\source\\repos\\mvcparts\\mvcparts\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0621A09E-44C7-42B7-8FB1-A8F19B478622}|MvcParts\\MvcParts.csproj|solutionrelative:mvcparts\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0621A09E-44C7-42B7-8FB1-A8F19B478622}|MvcParts\\MvcParts.csproj|c:\\users\\ishka\\source\\repos\\mvcparts\\mvcparts\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0621A09E-44C7-42B7-8FB1-A8F19B478622}|MvcParts\\MvcParts.csproj|solutionrelative:mvcparts\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0621A09E-44C7-42B7-8FB1-A8F19B478622}|MvcParts\\MvcParts.csproj|c:\\users\\ishka\\source\\repos\\mvcparts\\mvcparts\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0621A09E-44C7-42B7-8FB1-A8F19B478622}|MvcParts\\MvcParts.csproj|solutionrelative:mvcparts\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0621A09E-44C7-42B7-8FB1-A8F19B478622}|MvcParts\\MvcParts.csproj|c:\\users\\ishka\\source\\repos\\mvcparts\\mvcparts\\views\\home\\devinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0621A09E-44C7-42B7-8FB1-A8F19B478622}|MvcParts\\MvcParts.csproj|solutionrelative:mvcparts\\views\\home\\devinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0621A09E-44C7-42B7-8FB1-A8F19B478622}|MvcParts\\MvcParts.csproj|c:\\users\\ishka\\source\\repos\\mvcparts\\mvcparts\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0621A09E-44C7-42B7-8FB1-A8F19B478622}|MvcParts\\MvcParts.csproj|solutionrelative:mvcparts\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\ishka\\source\\repos\\MvcParts\\MvcParts\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "MvcParts\\Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\ishka\\source\\repos\\MvcParts\\MvcParts\\Models\\SeedData.cs",
+              "RelativeToolTip": "MvcParts\\Models\\SeedData.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwEUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T22:49:42.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Parts.cs",
+              "DocumentMoniker": "C:\\Users\\ishka\\source\\repos\\MvcParts\\MvcParts\\Models\\Parts.cs",
+              "RelativeDocumentMoniker": "MvcParts\\Models\\Parts.cs",
+              "ToolTip": "C:\\Users\\ishka\\source\\repos\\MvcParts\\MvcParts\\Models\\Parts.cs",
+              "RelativeToolTip": "MvcParts\\Models\\Parts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T22:46:11.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ishka\\source\\repos\\MvcParts\\MvcParts\\Views\\Parts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MvcParts\\Views\\Parts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ishka\\source\\repos\\MvcParts\\MvcParts\\Views\\Parts\\Edit.cshtml",
+              "RelativeToolTip": "MvcParts\\Views\\Parts\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T22:42:35.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ishka\\source\\repos\\MvcParts\\MvcParts\\Views\\Parts\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MvcParts\\Views\\Parts\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ishka\\source\\repos\\MvcParts\\MvcParts\\Views\\Parts\\Delete.cshtml",
+              "RelativeToolTip": "MvcParts\\Views\\Parts\\Delete.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T22:42:21.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ishka\\source\\repos\\MvcParts\\MvcParts\\Views\\Parts\\Create.cshtml",
+              "RelativeDocumentMoniker": "MvcParts\\Views\\Parts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ishka\\source\\repos\\MvcParts\\MvcParts\\Views\\Parts\\Create.cshtml",
+              "RelativeToolTip": "MvcParts\\Views\\Parts\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T22:42:08.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ishka\\source\\repos\\MvcParts\\MvcParts\\Views\\Parts\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcParts\\Views\\Parts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ishka\\source\\repos\\MvcParts\\MvcParts\\Views\\Parts\\Index.cshtml",
+              "RelativeToolTip": "MvcParts\\Views\\Parts\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T22:40:23.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PartsController.cs",
+              "DocumentMoniker": "C:\\Users\\ishka\\source\\repos\\MvcParts\\MvcParts\\Controllers\\PartsController.cs",
+              "RelativeDocumentMoniker": "MvcParts\\Controllers\\PartsController.cs",
+              "ToolTip": "C:\\Users\\ishka\\source\\repos\\MvcParts\\MvcParts\\Controllers\\PartsController.cs",
+              "RelativeToolTip": "MvcParts\\Controllers\\PartsController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T22:40:13.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "devInfo.cshtml",
+              "DocumentMoniker": "C:\\Users\\ishka\\source\\repos\\MvcParts\\MvcParts\\Views\\Home\\devInfo.cshtml",
+              "RelativeDocumentMoniker": "MvcParts\\Views\\Home\\devInfo.cshtml",
+              "ToolTip": "C:\\Users\\ishka\\source\\repos\\MvcParts\\MvcParts\\Views\\Home\\devInfo.cshtml",
+              "RelativeToolTip": "MvcParts\\Views\\Home\\devInfo.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T22:39:03.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ishka\\source\\repos\\MvcParts\\MvcParts\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MvcParts\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ishka\\source\\repos\\MvcParts\\MvcParts\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MvcParts\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T22:39:00.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ishka\\source\\repos\\MvcParts\\MvcParts\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcParts\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ishka\\source\\repos\\MvcParts\\MvcParts\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MvcParts\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T22:34:51.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ishka\\source\\repos\\MvcParts\\MvcParts\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MvcParts\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ishka\\source\\repos\\MvcParts\\MvcParts\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MvcParts\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T22:31:12.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ishka\\source\\repos\\MvcParts\\MvcParts\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MvcParts\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ishka\\source\\repos\\MvcParts\\MvcParts\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MvcParts\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T22:34:42.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
